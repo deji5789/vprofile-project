@@ -14,9 +14,9 @@ pipeline{
         RELEASE_REPO = 'vprofile-release'
         CENTRAL_REPO = 'vprofile-maven-central'
 
-        // NEXUS_USER = 'admin'
-        // NEXUS_PASS = 'admin123'
-        NEXUS_LOGIN = 'nexuslogin'
+        NEXUS_USER = 'admin'
+        NEXUS_PASS = 'admin123'
+
     }
 
     stages {
