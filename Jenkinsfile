@@ -16,7 +16,7 @@ pipeline{
 
         NEXUS_USER = 'admin'
         NEXUS_PASS = 'admin123'
-        SONARSERVER 'sonarserver'
+        SONARSERVER = 'sonarserver'
         SONARSCANNER = 'sonarscanner'
 
     }
